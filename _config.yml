@@ -22,3 +22,5 @@ exclude:
   - the_wrong_answer/SUMMARY.md
   - ashes_of_the_blockland/book.toml
   - ashes_of_the_blockland/SUMMARY.md
+  - meltdown_of_sector_nine/book.toml
+  - meltdown_of_sector_nine/SUMMARY.md

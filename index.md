@@ -23,6 +23,13 @@ Welcome to my collection of short novels and stories.
   <p><a href="ashes_of_the_blockland/" style="background-color: #0366d6; color: white; padding: 8px 16px; text-decoration: none; border-radius: 3px; display: inline-block;">📖 Start Reading</a></p>
 </div>
 
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; margin: 20px 0; background-color: #f6f8fa;">
+  <h3><a href="meltdown_of_sector_nine/" style="text-decoration: none; color: #0366d6;">The Meltdown of Sector Nine</a></h3>
+  <p><em>Industrial Drama • 6 chapters • ~35 pages</em></p>
+  <p>When an advanced reactor in Sector Nine spirals out of control, four friends in bright hazmat suits step into a dead zone to make things right—and to make sure it never happens again.</p>
+  <p><a href="meltdown_of_sector_nine/" style="background-color: #0366d6; color: white; padding: 8px 16px; text-decoration: none; border-radius: 3px; display: inline-block;">📖 Start Reading</a></p>
+</div>
+
 ## 🚀 Coming Soon
 
 More books will be added here as they're completed.
