@@ -14,9 +14,9 @@ NOTICE: STATISTICAL ANOMALY DETECTED.
 
 Below the headline, the language was almost soothing.
 
-Variance Index: 0.31 above cohort mean.
+Variance score: 0.31 above average (higher than most in your class).
 
-Confidence: 87%.
+Confidence: 87% (the system sounded sure).
 
 Action: Schedule Guidance Consultation. Suggested: Sooner.
 
@@ -174,7 +174,7 @@ Helen watched her for the length of a held breath. Then she nodded. “Thank you
 
 On Mara’s tablet, the banner updated:
 
-Guidance Completed. Variance Monitoring Active.
+Guidance completed. Monitoring for changes active.
 
 The word monitoring tasted worse than chalk.
 

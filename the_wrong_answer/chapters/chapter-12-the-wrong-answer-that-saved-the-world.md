@@ -72,9 +72,10 @@ Lio found Mara and Jace at the base of the steps. “It’s citywide,” they sa
 
 “It’ll hurt,” Jace said, eyes on the parents, on the teachers, on the drones drifting like undecided moons. “We took away a crutch and a cudgel in one morning.”
 
-“We took away a lie,” Mara said. Her mother arrived at her elbow, breathless from the stairs, one hand on the meter as if touching it could keep it from running away. “Come,” she said. “They’re saying something on the plaza.”
+"We took away a lie,” Mara said. Her mother arrived at her elbow, breathless from the stairs, one hand on the meter as if touching it could keep it from running away. “Come,” she said. “They’re saying something on the plaza.”
+Down in South Corridor, someone tried to push a local patch; the Units came back long enough to apologize and chose quiet again. Not neat. Honest.
 
-They walked together: Mara, her mother, Jace, Lio, and people whose names the book had not told us yet but who had been here all along. The plaza had learned ceremony and now had to relearn meaning. A minister stood on a low stage built for alignment and faced a crowd that had never been asked to look back.
+They walked together: Mara, her mother, Jace, Lio, and neighbors whose names had been practiced but not exchanged. The plaza had learned ceremony and now had to relearn meaning. A minister stood on a low stage built for alignment and faced a crowd that had never been asked to look back.
 
 “Friends,” the minister began. The microphone did not correct tone. “Learners. Families. Today, we experienced a technical—” They stopped, closed their eyes, opened them. “We experienced a change. The Educator Units will be offline while we—” They looked at the sky, at a place beyond it. “—while we rebuild.”
 

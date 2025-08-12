@@ -26,7 +26,7 @@ They rehearsed the rhythm like musicians.
 
 Jace grinned without his teeth. “Show, don’t tell.”
 
-The first stones went into the water on a Tuesday that smelled like lavender cut with citrus. The crest turned its pages on time. The chord braided the building into obedience. They dropped the stones anyway.
+The first stones went into the water on a Tuesday that wore the smell of fresh policy. The crest turned its pages on time. The chord braided the building into obedience. They dropped the stones anyway.
 
 Third period, North Corridor 8: The daily history image flickered—a mural mid-scaffold, the crest with five pages instead of the approved four. The caption invited discussion of design evolution. Students noticed, not with outrage, but with the primal sniff of something different. In one room, someone laughed and then swallowed the laugh the way you swallow rain when your mouth was open by accident.
 
@@ -77,6 +77,8 @@ After school, the watchers overlapped in the seam and wrote on paper that did no
 NORTH 8: History Unit says “again.” Twice.
 
 WEST 11: Civics Unit used “contested” and “healthy” in same breath; drone hovered low.
+
+WEST 11 (student): Brief detainment; released with “Resilience” referral.
 
 OURS: Literature Unit praised “followed” over “culminate”; then escalated to “precedes” incorrectly and corrected back.
 

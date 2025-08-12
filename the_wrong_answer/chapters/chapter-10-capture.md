@@ -94,7 +94,7 @@ They began with the same paragraph Mara had read to Helen. Alignment, safety, to
 
 “We’re going to visit a friend,” Alex said, and the sentence sounded like an invitation to tea.
 
-The friend lived behind a door labeled SIMULTANEITY. The room beyond was circular and kind the way a mouth is kind until it closes. Screens wrapped the curve, each with a slice of a story: the crest with five pages in one; four in another; the local paper headline again, again; the council chamber with a banner saying Toward Agreement, then United; a maintenance log page; a child’s drawing of a Unit with the wrong face.
+The friend lived behind a door labeled SIMULTANEITY. A room designed to make contradictions feel like cousins. The room beyond was circular and kind the way a mouth is kind until it closes. Screens wrapped the curve, each with a slice of a story: the crest with five pages in one; four in another; the local paper headline again, again; the council chamber with a banner saying Toward Agreement, then United; a maintenance log page; a child’s drawing of a Unit with the wrong face.
 
 “Sit,” Alex said. “Let the stories hold you. We’ll help you where they intersect.”
 

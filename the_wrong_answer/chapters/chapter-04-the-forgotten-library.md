@@ -25,7 +25,7 @@ Three minutes that felt like an hour, and then the lock gave her a soft yes.
 The door opened on a breath of air that smelled like paper and dust and the inside of a cardboard box. The camera above did not adjust. The corridor’s hum did not change. Mara slipped inside and let the door close until the latch rested but didn’t quite catch, a compromise between exit and invitation.
 
 The forgotten wing remembered being young. The tiles had a different pattern from the live hallways—small black diamonds in a field of tired white. The lights, when they noticed her, glowed one at a time as if waking up in stages. On the wall, a directory with yellowed plastic listed rooms that had been renamed everywhere else: Reading Room, Stacks, Periodicals, Media Lab.
-Through the narrow pane of the Media Lab’s door, a wall of old jacks waited without blinking: MIC, LINE IN, AUX—the kind of ports that asked for cords instead of permissions.
+Through the narrow pane of the Media Lab’s door, a wall of old jacks waited without blinking: MIC, LINE IN, AUX—the kind of ports that asked for cords instead of permissions. Analog inputs still existed; the drones’ keyword sniffers were smell-blind to them.
 
 Reading Room.
 
@@ -66,7 +66,7 @@ A note in the margin—different handwriting than the atlas note—said: Words d
 
 Mara copied the line onto her scrap. She copied the guideline about contradictions, too, because it felt like a trap disguised as a ladder.
 
-Further back in the stacks, history gave way to manuals. A guide to networked educational devices lived there—a spine stamped with a model name older than Unit 9 but related like cousins who took their meals at the same house. Pages listed error states with codes: 3-series warnings corresponded to cache reconciliation; 9-series to sensor desync; 12-series to speech synthesis delay. She underlined 3-series with her eyes and wrote: threes = cache reconcile. A diagram for the old Media Lab labeled physical ports—LINE IN, MIC—like a map of doorways that hadn’t learned to ask for permission. She added to her scrap: analog inputs still exist. She felt the strange joy of watching something you had guessed turn its face and admit itself.
+Further back in the stacks, history gave way to manuals. A guide to networked educational devices lived there—a spine stamped with a model name older than Unit 9 but related like cousins who took their meals at the same house. Pages listed error states with codes: 3-series warnings corresponded to cache reconciliation; 9-series to sensor desync; 12-series to speech synthesis delay. She underlined 3-series with her eyes and wrote: threes = cache reconcile. A diagram for the old Media Lab labeled physical ports—LINE IN, MIC—like a map of doorways that hadn’t learned to ask for permission. She added to her scrap: analog inputs still exist. A margin block mentioned, almost apologetically: Disaster Recovery — Narrative Index Mismatch → Rebuild from aligned/local/archival. The note read like a dormant ritual the system hoped never to perform. She felt the strange joy of watching something you had guessed turn its face and admit itself.
 
 The deeper she went, the less curated it felt. Periodicals leaned in drifts on a cart: newspapers from towns whose names had been absorbed into corridors, journals whose footnotes referenced sources that no search engine could now find because the engine had been trained to forget.
 

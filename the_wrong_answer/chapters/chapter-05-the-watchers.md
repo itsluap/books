@@ -60,11 +60,11 @@ They let silence do work while a class changed above them. Feet moved like rain.
 
 “What do you want from me?” Mara asked.
 
-"Nothing," Jace said, too quickly. He corrected it. “Nothing you don’t already have.” He uncurled his fingers. In his palm lay a roots sticker, the kind children earned for answering correctly. It was not the crest. It was a tree with roots that spread like questions. Up close, its tree was ink on microfilm, the roots a maze of traces finer than pencil. “If you want to find us, put this on the inside of your locker door and then take it off before end-of-day. If you don’t, throw it away and tell yourself it was a joke.”
+"Nothing," Jace said, too quickly. He corrected it. “Nothing you don’t already have.” He uncurled his fingers. In his palm lay a roots sticker, the kind children earned for answering correctly. It was not the crest. It was a tree with roots that spread like questions. Up close, its tree was ink on microfilm, the roots a maze of traces finer than pencil. The microfilm wasn’t decoration; warmed and wired, it could be taught to listen—briefly—and it preferred to tell no one but paper. “If you want to find us, put this on the inside of your locker door and then take it off before end-of-day. If you don’t, throw it away and tell yourself it was a joke.”
 
 “Roots,” she said.
 
-“Old library stamp,” he said. “Most of us found the wing one way or another. Some of us found each other before we found the wing.”
+“Old library stamp,” he said. “Most of us found the wing one way or another. Some of us found each other before we found the wing. The sticker’s the same symbol—sometimes just a sign, sometimes a tool.”
 
 “How do you meet without the drones counting bodies?”
 

@@ -88,7 +88,7 @@ Lio slid in the first drive. On it, scanned pages from the forgotten wing. Not a
 
 The console tasted the drive and hesitated. VERIFY SOURCE, it repeated.
 
-Mara placed the library card from the envelope under the periodical rack against the glass. WEST SECTOR PUBLIC SCHOOL 14. Borrower: P. Quinn. The letters were ink and plastic and a story older than the crest.
+Mara placed the library card from the envelope under the periodical rack against the glass. WEST SECTOR PUBLIC SCHOOL 14. Borrower: P. Quinn. The letters were ink and plastic and a story older than the crest. Her father had once told stories about a school stamp with a tree; the tail of the Q curved the way her mother’s did when she was writing fast. Family, or the shape of it.
 
 “Aligned,” she said, and the word stopped being safe and became true.
 
@@ -120,11 +120,11 @@ They had three drives between them. They had a scanner that whirred like a memor
 
 “Now,” Mara said.
 
-Lio bridged. The fans deepened again—a physical note of fear. The console stuttered code into the air: INDEX EXPANSION; CONSENSUS REQUEST; VARIANCE HIGH; REWEIGHTING. The racks flickered like a sky cracking.
+Lio bridged. The fans deepened again—a physical note of fear. The console stuttered code into the air: INDEX EXPANSION; CONSENSUS REQUEST; VARIANCE HIGH; REWEIGHTING. A small line pulsed in the corner: quorum delayed; mirrors uneven. The racks flickered like a sky cracking.
 
 Upstairs, the lavender failed, and the metal spoke openly through the vents.
 
-Boots. Close. Radios no longer murmured; they declared. The braided girl’s tool kept the door in a state between yes and no that a person could pass but a policy could not.
+Boots. Close. Radios no longer murmured; they declared. The braided girl’s tool kept the door in a state between yes and no that a person could pass but a policy could not. The tool stuttered and died hot in her hand; they would have one pass and no second chance on the way out.
 
 On the glass, a line appeared: REBUILD REQUIRED. SOURCE: ALIGNED/LOCAL/ARCHIVAL.
 
@@ -132,7 +132,7 @@ On the glass, a line appeared: REBUILD REQUIRED. SOURCE: ALIGNED/LOCAL/ARCHIVAL.
 
 The placard’s light turned from white to green.
 
-REBUILD: IN PROGRESS, the console said. SYSTEM: DEGRADED. EDUCATOR UNITS: OFFLINE DURING REBUILD.
+REBUILD: IN PROGRESS, the console said. SYSTEM: DEGRADED. EDUCATOR UNITS: OFFLINE DURING REBUILD. INGEST: 38% → 41% (projected). They would not get all; they would get enough that all was implied.
 
 “We go,” Lio said, because victory is a room that always catches fire.
 

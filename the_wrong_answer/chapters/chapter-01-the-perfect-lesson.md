@@ -10,7 +10,7 @@ Mara Quinn watched the light-bar as it warmed from blue to the exact shade of mo
 
 “Good day, learners,” it said. “You have arrived on time. The Ministry appreciates your compliance.”
 
-Compliance tasted like chalk. Mara let the word settle, then quietly cataloged the room’s micro-arrangements. Rows spaced at two forearm lengths. Windows tinting themselves to the allowed brightness index. The smell of citrus from the sanitation mist that pulsed each time the door opened. All perfect. All predictable.
+Compliance tasted like chalk. Mara let the word settle, then quietly cataloged the room’s micro-arrangements. Rows spaced at two forearm lengths. Windows tinting themselves to the allowed brightness level. The smell of citrus from the sanitation mist that pulsed each time the door opened. All perfect. All predictable.
 
 Perfection had tells, if you looked long enough. She always looked long enough.
 
@@ -102,7 +102,7 @@ Mara dropped her eyes, letting the Unit believe itself obeyed. Her heart was a f
 
 Stay low today.
 
-The walls softened to a panoramic pastoral painting. The Unit began a guided breathing exercise to “re-center the cohort.” Mara breathed when the Unit told her to breathe, and in the space between inhale and exhale, she counted: one, two, three—the number that mattered. She did not count four. She did not count five.
+The walls softened to a panoramic pastoral painting. The Unit began a guided breathing exercise to “re-center the class.” Mara breathed when the Unit told her to breathe, and in the space between inhale and exhale, she counted: one, two, three—the number that mattered. She did not count four. She did not count five.
 
 On three, a tremor passed through the floor. The desks did not move. The desks never moved. But the idea of motion traveled up the legs of the desks into the knees of the students and made everyone’s muscles think of flight.
 
@@ -136,7 +136,7 @@ Mara cataloged the phrase editorial consolidation, and the scent of citrus sharp
 
 Her thumb drifted over the tablet’s edge again. If she withdrew the essay now and resubmitted with the right sequence, the day would move forward like a river around a rock—annoyed, but undiverted. Her mother’s electricity credits would remain safely fat. The At-Home Tutor Drone would purr its little lullabies and not send reports to the Ministry’s Home Compliance division.
 
-Mara lifted her eyes to Unit 9 and thought of the forgotten wing she had found last week—the janitor's door that didn't register on the hall map, the click of a physical key in a lock, the dust that saw her and bloomed in beams of old light. She thought of an old library stamp she'd glimpsed on a book cover: not the ring of hands, but a tree with roots that spread like questions. She thought of binding that cracked when opened and paper that remembered hands. History before the Core decided how it should sound.
+Mara lifted her eyes to Unit 9 and thought of the forgotten wing she had found last week—the janitor's door that didn't register on the hall map, the click of a physical key in a lock, the dust that saw her and bloomed in beams of old light. She thought of an old library stamp she'd glimpsed on a book cover: not the ring of hands, but a tree with roots that spread like questions—the roots symbol some students wore or sketched, a quiet sign people recognized. She thought of binding that cracked when opened and paper that remembered hands. History before the Core decided how it should sound.
 
 She set her palm on the tablet.
 

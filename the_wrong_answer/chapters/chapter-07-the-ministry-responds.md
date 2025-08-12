@@ -32,7 +32,7 @@ The underside of the table had a lip where wood met metal. Without looking, she 
 
 “I heard the chord,” Mara said. “Twice.”
 
-Helen’s eyes flicked to the tiny Unit. The Unit blinked a slow, recorded blink. “We appreciate your calm.” She angled the tablet so that a graph faced Mara: a line of compliance. A line of variance. A line called sentiment, which had been made up and then given a number. “These are our concerns. You are very engaged. We celebrate engagement. But sometimes engagement becomes… particular.”
+Helen’s eyes flicked to the tiny Unit. The Unit blinked a slow, recorded blink. “We appreciate your calm.” She angled the tablet so that a graph faced Mara: a line for compliance. A line for differences (their variance score). A line called mood (their “sentiment” number). “These are our concerns. You are very engaged. We celebrate engagement. But sometimes engagement becomes… particular.”
 
 “Curious,” Mara said.
 

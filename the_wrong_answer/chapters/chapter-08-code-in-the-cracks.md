@@ -106,7 +106,7 @@ Mara added to her cardboard:
 
 She slept and dreamed of a tree whose roots grew through brick, splitting it not with force but with patience.
 
-Morning brought a new sign in the hall: BEHAVIOR ANALYSIS PILOT—THANK YOU FOR PARTICIPATING. The drones’ halos were a hair brighter again. Unit 9, in first block, began with a bland disclaimer about “inconvenient historical variance.” Children repeated the phrase. The room tasted like chalk and lavender and the beginning of metal.
+Morning brought a new sign in the hall: BEHAVIOR ANALYSIS PILOT—THANK YOU FOR PARTICIPATING. The drones’ halos were a hair brighter again. Unit 9, in first block, began with a bland disclaimer about “inconvenient historical variance.” Children repeated the phrase. The room tasted like chalk and a tone that wanted to be soothing and wasn’t.
 
 After class, a message found her on a piece of paper that never looked like a piece of paper until it had finished being held: West Sector’s art teacher reassigned. Retrospective canceled. Unit firmware update scheduled. Correction Center tours increased.
 
