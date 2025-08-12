@@ -140,7 +140,7 @@ Unknown: Or do it better next time.
 
 She typed: Who?
 
-A third bubble formed and dissolved without text—then reappeared as a single root sticker emoji she’d seen on lockers, the one with the tree whose roots spread like questions.
+A third bubble formed and dissolved without text—then reappeared as a simple image she'd seen on lockers: a tree with roots that spread like questions.
 
 Mara’s scalp prickled. She typed one word: Who?
 
