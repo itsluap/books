@@ -10,6 +10,12 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 exclude:
   - .github/
   - the_wrong_answer/book.toml
