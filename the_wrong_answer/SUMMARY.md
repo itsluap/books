@@ -13,4 +13,4 @@
 - [Chapter 10 — Capture](chapters/chapter-10-capture.md)
 - [Chapter 11 — The Core](chapters/chapter-11-the-core.md)
 - [Chapter 12 — The Wrong Answer That Saved the World](chapters/chapter-12-the-wrong-answer-that-saved-the-world.md)
-- [Appendix — Outline](../book_outline.md)
+- [Appendix — Outline](book_outline.md)

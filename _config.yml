@@ -20,3 +20,5 @@ exclude:
   - .github/
   - the_wrong_answer/book.toml
   - the_wrong_answer/SUMMARY.md
+  - ashes_of_the_blockland/book.toml
+  - ashes_of_the_blockland/SUMMARY.md

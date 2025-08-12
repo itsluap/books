@@ -19,3 +19,11 @@ In a Ministry-run education system where Educator Units teach perfect lessons an
   <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
   <a href="chapter-01-the-perfect-lesson.html" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 1 — The Perfect Lesson →</a>
 </div>
+
+<!-- NAVIGATION START -->
+<div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <div></div>
+  <a href="index.html" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
+  <a href="chapters/chapter-01-the-perfect-lesson.html" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 1 — The Perfect Lesson →</a>
+</div>
+<!-- NAVIGATION END -->
