@@ -146,7 +146,7 @@ Mara went to bed with dust still in the lines of her palms and the taste of pape
 
 Tomorrow could be many things. She counted to three. Then she slept.
 <div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <a href="chapters/chapter-03-home-compliance.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Chapter 3 — Home Compliance</a>
+  <a href="chapter-03-home-compliance.html" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Chapter 3 — Home Compliance</a>
   <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
-  <a href="chapters/chapter-05-the-watchers.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 5 — The Watchers →</a>
+  <a href="chapter-05-the-watchers.html" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 5 — The Watchers →</a>
 </div>

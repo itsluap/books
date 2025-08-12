@@ -118,7 +118,7 @@ Outside, the city performed normal. Inside, the small true things lined up and w
 
 The Ministry had responded. So had she.
 <div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <a href="chapters/chapter-06-the-first-broadcast.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Chapter 6 — The First Broadcast</a>
+  <a href="chapter-06-the-first-broadcast.html" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Chapter 6 — The First Broadcast</a>
   <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
-  <a href="chapters/chapter-08-code-in-the-cracks.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 8 — Code in the Cracks →</a>
+  <a href="chapter-08-code-in-the-cracks.html" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 8 — Code in the Cracks →</a>
 </div>

@@ -174,7 +174,7 @@ Mara swallowed. Jace didn’t look at her. Looking was a risk. But the angle of 
 
 Somewhere in the building, a door slid closed—no louder than usual. Mara heard it anyway. The perfect lesson continued. She set her stylus down, and beneath her ribs, something unfolded its wings.
 <div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <a href="front-matter.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Front Matter</a>
+  <a href="../front-matter.html" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Front Matter</a>
   <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
-  <a href="chapters/chapter-02-system-flags.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 2 — System Flags →</a>
+  <a href="chapter-02-system-flags.html" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 2 — System Flags →</a>
 </div>
