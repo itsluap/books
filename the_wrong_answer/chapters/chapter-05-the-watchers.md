@@ -48,7 +48,7 @@ He looked at the stair where a scuff mark had become a constellation. “Enough 
 
 “The Correction Center,” she said, and the air around the word cooled.
 
-Jace’s face did not change, which meant he had practiced not changing it. “You’ll hear official words. Evaluation. Stabilization. Resilience reinforcement. The corridor there smells like citrus and metal. They play the chord slower, and they call it calming.” He swallowed. “They ask you to tell them a story about yourself until the edges of the story blur. Then they help you round the edges off.”
+Jace’s face did not change, which meant he had practiced not changing it. “You’ll hear official words. Evaluation. Stabilization. Resilience reinforcement. The corridor there smells like lavender cut with metal. They play the chord slower, and they call it calming.” He swallowed. “They ask you to tell them a story about yourself until the edges of the story blur. Then they help you round the edges off.”
 
 He didn’t say what he had seen. He didn’t have to. The sentence had more words that would have changed the room if spoken.
 
@@ -60,7 +60,7 @@ They let silence do work while a class changed above them. Feet moved like rain.
 
 “What do you want from me?” Mara asked.
 
-“Nothing,” Jace said, too quickly. He corrected it. “Nothing you don’t already have.” He uncurled his fingers. In his palm lay a small sticker, the kind children earned for answering correctly. It was not the crest. It was a tree with roots that spread like questions. “If you want to find us, put this on the inside of your locker door and then take it off before end-of-day. If you don’t, throw it away and tell yourself it was a joke.”
+"Nothing," Jace said, too quickly. He corrected it. “Nothing you don’t already have.” He uncurled his fingers. In his palm lay a roots sticker, the kind children earned for answering correctly. It was not the crest. It was a tree with roots that spread like questions. Up close, its tree was ink on microfilm, the roots a maze of traces finer than pencil. “If you want to find us, put this on the inside of your locker door and then take it off before end-of-day. If you don’t, throw it away and tell yourself it was a joke.”
 
 “Roots,” she said.
 
@@ -68,7 +68,7 @@ They let silence do work while a class changed above them. Feet moved like rain.
 
 “How do you meet without the drones counting bodies?”
 
-“We don’t meet,” he said. “We overlap.” He gestured with his chin toward the wall. “There are blind seams between the cameras, places where the Core estimates instead of seeing. We write on paper. We pass it by hand. We say the wrong words on purpose in rooms that lag on threes.” He tilted his head, listening to the building. “You hear the threes.”
+“We don’t meet,” he said. “We overlap.” He gestured with his chin toward the wall. “There are blind seams between the cameras, places where the Core estimates instead of seeing. We write on paper. We pass it by hand. Paper leaves smaller wakes than messages. We say the wrong words on purpose in rooms that lag on threes.” He tilted his head, listening to the building. “You hear the threes.”
 
 “I do.”
 
@@ -78,7 +78,7 @@ Mara looked at his empty hands and at her own, which were not empty but had lear
 
 “Again,” she said. “The word ‘again’ exists. It existed then. They removed it.”
 
-Jace inhaled, a small wonder. “Good,” he said. “Here’s mine.” He leaned closer, not for a dramatic whisper but because the stairwell had decided whispers were honest here. “The announcement system still has an analog jack in the Media Lab. It’s dead unless someone tells it to listen. We have a person who can make it listen.”
+Jace inhaled, a small wonder. “Good,” he said. “Here’s mine.” He leaned closer, not for a dramatic whisper but because the stairwell had decided whispers were honest here. “The announcement system still has an analog jack in the Media Lab. It’s dead unless someone tells it to listen. We have a person who can make it listen. When it listens, it forgets to ask permission.”
 
 “And you’ll need a person who can make it say something worth hearing,” Mara said.
 

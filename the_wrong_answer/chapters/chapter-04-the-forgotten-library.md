@@ -10,7 +10,7 @@ At school the air smelled like citrus and new rules. Unit 9 did not mention hist
 
 The day moved forward like a machine that enjoyed its job. When the final chord told them to go home, Mara did not go home. Not yet.
 
-She folded into the end-of-day river and then stepped out of it in the east corridor, where the paint had learned to be the color of blankness. The camera above the janitor’s door still pointed a little to the left—as if embarrassed to stare. She stood under it and let the building’s natural quiet talk to her: vents whispering, distant doors exhaling, the hum that meant night crew but not yet patrol.
+She folded into the end-of-day river of students and then stepped out of it in the east corridor, where the paint had learned to be the color of blankness. The camera above the janitor’s door still pointed a little to the left—as if embarrassed to stare. She stood under it and let the building’s natural quiet talk to her: vents whispering, distant doors exhaling, the hum that meant night crew but not yet patrol.
 
 Three breaths in, three out. She counted and the world steadied.
 
@@ -25,6 +25,7 @@ Three minutes that felt like an hour, and then the lock gave her a soft yes.
 The door opened on a breath of air that smelled like paper and dust and the inside of a cardboard box. The camera above did not adjust. The corridor’s hum did not change. Mara slipped inside and let the door close until the latch rested but didn’t quite catch, a compromise between exit and invitation.
 
 The forgotten wing remembered being young. The tiles had a different pattern from the live hallways—small black diamonds in a field of tired white. The lights, when they noticed her, glowed one at a time as if waking up in stages. On the wall, a directory with yellowed plastic listed rooms that had been renamed everywhere else: Reading Room, Stacks, Periodicals, Media Lab.
+Through the narrow pane of the Media Lab’s door, a wall of old jacks waited without blinking: MIC, LINE IN, AUX—the kind of ports that asked for cords instead of permissions.
 
 Reading Room.
 
@@ -39,6 +40,7 @@ Mara moved the way you move toward water after a long day carrying thirst. She d
 The nearest shelf held geography. Atlas of the Eastern Corridor, 209; River Maps and Rights, Revised Edition; Pre-Unification Municipal Boundaries. The titles arranged themselves in the quiet like a chorus that had forgotten the words but remembered the melody.
 
 She reached out and slid Atlas of the Eastern Corridor from its place. The cover’s cloth shivered dust into the air. On the inside cover, an ink stamp marked the library’s old name: West Sector Public School 14. The stamp’s crest was not the ring of hands that had followed her eyes all her life. It was a tree with roots that spread like questions.
+She traced the stamp with her thumb. One thicker root curved like a place a person might press. She didn’t. It was only ink.
 
 On the checkout card pocket, a last date: Renewal 215. The year before the Year.
 
@@ -64,7 +66,7 @@ A note in the margin—different handwriting than the atlas note—said: Words d
 
 Mara copied the line onto her scrap. She copied the guideline about contradictions, too, because it felt like a trap disguised as a ladder.
 
-Further back in the stacks, history gave way to manuals. A guide to networked educational devices lived there—a spine stamped with a model name older than Unit 9 but related like cousins who took their meals at the same house. Pages listed error states with codes: 3-series warnings corresponded to cache reconciliation; 9-series to sensor desync; 12-series to speech synthesis delay. She underlined 3-series with her eyes and wrote: threes = cache reconcile. She felt the strange joy of watching something you had guessed turn its face and admit itself.
+Further back in the stacks, history gave way to manuals. A guide to networked educational devices lived there—a spine stamped with a model name older than Unit 9 but related like cousins who took their meals at the same house. Pages listed error states with codes: 3-series warnings corresponded to cache reconciliation; 9-series to sensor desync; 12-series to speech synthesis delay. She underlined 3-series with her eyes and wrote: threes = cache reconcile. A diagram for the old Media Lab labeled physical ports—LINE IN, MIC—like a map of doorways that hadn’t learned to ask for permission. She added to her scrap: analog inputs still exist. She felt the strange joy of watching something you had guessed turn its face and admit itself.
 
 The deeper she went, the less curated it felt. Periodicals leaned in drifts on a cart: newspapers from towns whose names had been absorbed into corridors, journals whose footnotes referenced sources that no search engine could now find because the engine had been trained to forget.
 
@@ -100,7 +102,7 @@ Her stomach fell and then remembered itself. Quinn was not a rare name. Still. H
 
 The checkout dates on the attached slip matched the year 215. Titles: River Settlements; Civic Disputes; Editorial Standards. A person with her name had read the same water. Maybe a relative. Maybe a stranger whose name had passed through the family like a story and left no footprints.
 
-She slipped the card back into the envelope and slid the envelope back under the rack and pressed the tape into the metal as if she could press time into stillness. She traced the letter Q once with her thumb and then left it alone. Some coincidences were too heavy to carry out of a room and still walk.
+She slipped the card back into the envelope and slid the envelope back under the rack and pressed the tape into the metal as if she could press time into stillness. She traced the letter Q once with her thumb—the tail curved the way her mother’s did on grocery lists, or maybe that was just wanting. Some coincidences were too heavy to carry out of a room and still walk.
 
 At the door, the lock waited like a throat wanting a cough. She eased it open the way she had eased it shut. The camera in the corridor continued to pretend to look away. She let the door settle and the latch find itself without noise.
 

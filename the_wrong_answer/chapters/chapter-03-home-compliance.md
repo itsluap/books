@@ -36,9 +36,9 @@ Her mother stirred the soup as if stirs were currency—three turns to the left,
 
 Mara’s stomach tightened. “About what?”
 
-“A variance note on your record.” The spoon stopped. “It’s probably nothing.”
+"A variance note on your record." The spoon stopped. "They said it could affect our tier. Our credits." Her voice dropped to barely audible. "We can't afford to drop another tier, Mara. Not with winter coming."
 
-“Probably,” Mara said.
+"It's probably nothing," Mara said, but the words felt thin.
 
 Her mother set the bowls on the table and sat. Up close, the fine lines around her eyes looked like someone had drawn maps and then erased the legend. “They said it won’t affect benefits if it diminishes. They said there’s a Plan.”
 
@@ -80,7 +80,7 @@ Mara bent over the table and let her stylus move. She wrote about the meter on t
 
 “Submit,” the drone prompted gently.
 
-Her mother cleared her throat. “I signed up for a Tasker shift tonight,” she said. “Package assembly. It’s only three hours, but it’s three credits extra.”
+Her mother cleared her throat. "I signed up for a Tasker shift tonight," she said. "Package assembly. It's only three hours, but it's three credits extra." She paused, glancing at the drone. "Sometimes you learn things in the packaging rooms. Things that don't make it into the pamphlets."
 
 The drone’s lens tilted, interested. “Tasker participation is commendable.”
 
@@ -92,7 +92,7 @@ The drone’s lens tilted, interested. “Tasker participation is commendable.�
 
 Mara wrote: When the Unit smiled and forgot its words. When the building held its breath. When a van turned a corner at a normal speed and I could not tell if it was for me.
 
-She did not submit that sentence. She erased it and wrote: When Father was reassigned to Distant Service without a return date.
+She did not submit that sentence. She erased it and wrote: When Father was reassigned to Distant Service without a return date, and we pretended it was temporary so the grief wouldn't be too loud for the drones to hear.
 
 The drone hummed as it read. “Grief is a natural response to transition,” it cooed. “The Ministry supports family resilience.”
 
@@ -108,9 +108,9 @@ Her mother pulled on her coat and checked the pocket for her Tasker bracelet. �
 
 “I promise,” Mara said, and did not qualify the promise with definitions.
 
-At the door, her mother paused. “If they offer you the Plan again,” she said, “maybe take it.”
+At the door, her mother paused. "If they offer you the Plan again," she said, "maybe take it." Then, quieter, her hand on the door handle: "But if you don't—if you can't—I understand." Her eyes met Mara's. "Your father would understand too."
 
-Mara nodded the way you nod when you are walking a bridge you cannot yet afford to burn. “Maybe.”
+Mara nodded the way you nod when you are walking a bridge you cannot yet afford to burn. "Maybe."
 
 The door closed. The apartment adjusted around the absence—lights dimmed by one degree, heat redistributed by two. The drone docked and quiet, the news ribbon on the wall slowed. The meter glowed its soft 68.
 
@@ -140,7 +140,7 @@ Unknown: Or do it better next time.
 
 She typed: Who?
 
-A third bubble formed and dissolved without text—then reappeared as a simple image she'd seen on lockers: a tree with roots that spread like questions.
+A third bubble formed and dissolved without text—then reappeared as a simple image—the roots symbol she'd seen on lockers: a tree with roots that spread like questions.
 
 Mara’s scalp prickled. She typed one word: Who?
 
@@ -150,7 +150,7 @@ She looked at the drone. “Do you monitor personal messages?” she asked aloud
 
 The drone lifted a centimeter, as if disturbed in sleep. “Personal messages are private,” it said, and the way it said private made her want to pry open the word to see what gears turned inside.
 
-She locked her tablet and sat on the floor with her back to the cabinet. The plant on the sill—hers, not the Ministry’s, a stubborn little succulent she’d grown from a propagation—leaned toward the corner where the sun survived the geometry of buildings. She rotated it a quarter turn. It leaned back toward the light with a stubbornness she recognized.
+She locked her tablet and sat on the floor with her back to the cabinet. The plant on the sill—hers, not the Ministry's, a stubborn little succulent she'd grown from a propagation her mother had smuggled from the old community garden—leaned toward the corner where the sun survived the geometry of buildings. She rotated it a quarter turn. It leaned back toward the light with a stubbornness she recognized, the kind that ran in families and survived surveillance.
 
 On the wall screen, a documentary about the Unification’s early days unfurled—people hugging in clean streets, food lines resolving into shared kitchens, a minister’s voice telling them that history was a kindness if you wrote it correctly. The captions scrolled in a font designed to make the words look patient.
 
@@ -158,11 +158,11 @@ Mara thought of the janitor’s door and the cold kiss of the keyhole. If there 
 
 Careful, she had promised. Careful, not quiet.
 
-She got up and moved through the apartment, opening drawers the way someone opening a map approached it from the edges. In a sewing tin, she found a bent hairpin. In the repair jar, a small magnet. In the utility cupboard, a coil of wire that had once held a broom bound to its broken handle. She closed her fist around them and felt the small, tinny weight of choosing.
+She got up and moved through the apartment, opening drawers the way someone opening a map approached it from the edges. Each small thing had been saved by her mother's hands—the bent hairpin from when Mara was small and locks were simpler, the magnet from a toy that had once made her laugh, the coil of wire from repairs they'd done together before the Ministry decided maintenance was too dangerous for civilians. She closed her fist around them and felt the small, tinny weight of choosing.
 
 The drone rose two centimeters. “Night Routine suggests calming music,” it said helpfully. “Lavender scent can be dispersed upon request.”
 
-“No lavender,” Mara said. “It makes the apartment taste like someone else’s memories.”
+"No lavender," Mara said. "It makes the apartment taste like someone else's memories. Like they want us to forget what comfort used to smell like." Her mother's shoulders tensed slightly at the words, as if she remembered something she wasn't supposed to.
 
 The drone considered. “Civic Gratitude micro-lesson is queued for morning at 06:30.”
 
@@ -174,7 +174,7 @@ The drone considered. “Civic Gratitude micro-lesson is queued for morning at 0
 
 She set the pin, the magnet, and the wire beside the succulent, where their silhouettes looked almost decorative. She pictured the hallway after last bell, the camera that had learned to look a little away, the door painted the color of blankness. She pictured three steps from the math room to the stairwell, three from the stairwell to the east corridor, three from the last camera to the seam of the door. She breathed in threes until the world steadied.
 
-When her mother came home, her eyes were tired and her hands smelled like cardboard and orange. She hung her coat and looked around like a person counting her blessings by shape and by number.
+When her mother came home, her eyes were tired and her hands smelled like cardboard and orange. She hung her coat and looked around like a person counting her blessings by shape and by number. "They had us packaging the new civic kits tonight," she said quietly. "Funny how many get 'damaged' and need to be reprinted."
 
 “How was it?” Mara asked.
 

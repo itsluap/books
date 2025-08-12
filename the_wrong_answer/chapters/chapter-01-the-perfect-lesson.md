@@ -42,7 +42,7 @@ History, then, had risk. Good to know.
 
 Unit 9 guided them through sanctioned facts: the famine that ended the old order, the great consolidation of water rights, the law that standardized child-rearing metrics. The words grazed their heads like birds-wary-to-land. Eyes around Mara tracked, tracked, obedient.
 
-Her mother’s morning warning replayed: “Stay low today, Mara.” The warning was half-love, half-terror. The At-Home Tutor Drone had hovered in the kitchen corner—an oversized hummingbird with a lens—pretending to be asleep. Pretending.
+Her mother's morning warning replayed: "Stay low today, Mara. Be careful." Then, softer, like a secret: "But not quiet. Never quiet." The warning was half-love, half-terror, and something else—a buried hope that had survived years of surveillance. The At-Home Tutor Drone had hovered in the kitchen corner—an oversized hummingbird with a lens—pretending to be asleep. Pretending.
 
 “Your formative assessment for this block,” the Unit announced, “is a micro-essay: ‘The Necessity of Unification.’ Please submit three paragraphs by end of period. Cite your sources.”
 
@@ -68,7 +68,7 @@ Then the delay stretched.
 
 It was so small. The soft chord of the bell-theme slowed by a fraction. The crest’s pages hung half-turned, a stutter, a breath held too long by an anxious chorus. Unit 9’s smile froze and returned. To anyone else, the return was seamless.
 
-Mara’s stylus moved in her hand like it wanted to write what she had seen: the first hairline crack in perfect.
+Mara's stylus moved in her hand like it wanted to write what she had seen: the first hairline crack in perfect. She touched the edge of her tablet where, in the old models her mother remembered, there used to be a physical recording button. Now everything was recorded, but nothing was permanent. Except what was written by hand, on paper that couldn't be edited remotely.
 
 “Learner Quinn,” the Unit said, and Mara’s ribs tightened even though the tone was friendly. “Your submission format is exemplary. However, your citation dates appear… ambiguous. Would you like to revise?”
 
@@ -98,7 +98,7 @@ Mara watched the seam. It wasn’t just a visual cut. A numerical annotation in 
 
 It was preaching, which meant the Core was reweighting an output channel while the Unit filled time. Preaching meant time had been purchased.
 
-Mara dropped her eyes, letting the Unit believe itself obeyed. Her heart was a fist. She thought of her mother’s pale mouth in the kitchen, the tremor at the corner that had never really gone away since Mara’s father had been reassigned to Distant Service, which meant a post so far even letters couldn’t find it.
+Mara dropped her eyes, letting the Unit believe itself obeyed. Her heart was a fist. She thought of her mother's pale mouth in the kitchen, the tremor at the corner that had never really gone away since Mara's father had been reassigned to Distant Service—which meant a post so far even letters couldn't find it, which meant he had asked one too many careful questions about production quotas, which meant the Ministry preferred to disappear problems rather than answer them.
 
 Stay low today.
 
@@ -118,7 +118,7 @@ Contradiction. The word wouldn’t even finish itself.
 
 Mara sat very still, palms flat. The humidity in the room rose two percentage points; her skin prickled. She could feel, in the way you felt weather, that the building itself had noticed something and was quietly communicating the notice to its bones—the vents, the cameras, the lock on the only door.
 
-Jace’s stylus tapped twice, then stopped. A code? Maybe. Or an accident. He was a closed book with a loud spine.
+Jace's stylus tapped twice, then stopped. A code? Maybe. Or an accident. He was a closed book with a loud spine. She had noticed him before—the way he watched the Units watch them, how his hand paused over his tablet like hers did, measuring invisible things. If there were others who saw the cracks, he might be one of them.
 
 “Learner Quinn,” the Unit said again, still pleasant. “Would you accept instructor guidance to repair your citations?”
 
@@ -136,7 +136,7 @@ Mara cataloged the phrase editorial consolidation, and the scent of citrus sharp
 
 Her thumb drifted over the tablet’s edge again. If she withdrew the essay now and resubmitted with the right sequence, the day would move forward like a river around a rock—annoyed, but undiverted. Her mother’s electricity credits would remain safely fat. The At-Home Tutor Drone would purr its little lullabies and not send reports to the Ministry’s Home Compliance division.
 
-Mara lifted her eyes to Unit 9 and thought of the forgotten wing she had found last week—the janitor’s door that didn’t register on the hall map, the click of a physical key in a lock, the dust that saw her and bloomed in beams of old light. She thought of binding that cracked when opened and paper that remembered hands. History before the Core decided how it should sound.
+Mara lifted her eyes to Unit 9 and thought of the forgotten wing she had found last week—the janitor's door that didn't register on the hall map, the click of a physical key in a lock, the dust that saw her and bloomed in beams of old light. She thought of an old library stamp she'd glimpsed on a book cover: not the ring of hands, but a tree with roots that spread like questions. She thought of binding that cracked when opened and paper that remembered hands. History before the Core decided how it should sound.
 
 She set her palm on the tablet.
 
@@ -172,7 +172,7 @@ Unit 9 finished its sentence. “Learner Quinn,” it repeated, calm again, “t
 
 Mara swallowed. Jace didn’t look at her. Looking was a risk. But the angle of his jaw changed, as if bracing for something approaching.
 
-Somewhere in the building, a door slid closed—no louder than usual. Mara heard it anyway. The perfect lesson continued. She set her stylus down, and beneath her ribs, something unfolded its wings.
+Somewhere in the building, a door slid closed—no louder than usual. Mara heard it anyway. The perfect lesson continued. She set her stylus down and whispered, too quiet for the drones to parse: "Careful, not quiet." Beneath her ribs, something unfolded its wings.
 <div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
   <a href="../front-matter.html" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Front Matter</a>
   <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>

@@ -4,7 +4,7 @@ layout: default
 
 # Chapter 2 — System Flags
 
-The period ended the way storms end on government broadcasts—quickly, as if someone decided it was over. The soft chord returned to its exact tempo. Chairs tucked themselves. Unit 9 blinked its friendly blink and released them into the corridor river.
+The period ended the way storms end on government broadcasts—quickly, as if someone decided it was over. The soft chord returned to its exact tempo. Chairs tucked themselves. Unit 9 blinked its friendly blink and released them into the crowded hallway.
 
 Mara stepped into the flow and felt the current of bodies split around her. No one said her name. They didn’t have to. The room had noticed. The building had noticed. The system had noticed, and what the system noticed it categorized.
 
@@ -46,11 +46,11 @@ Mara glanced back. Kaya’s eyes flicked to the halo, then to Mara’s hands. No
 
 “Thanks,” Mara said.
 
-“I’m not—” Kaya started, then swallowed whatever she wasn’t. “I heard if you pick lunch, they leave you alone after school.”
+“I’m not—” Kaya started, then swallowed whatever she wasn’t. "I heard if you pick lunch, they leave you alone after school."
 
-“Heard from who?”
+"Heard from who?"
 
-Kaya looked at the ceiling. “From the ceiling.” She tried to smile and failed. “You shouldn’t have said no to the Unit.”
+Kaya looked at the ceiling, then back to Mara with something like recognition. "From the ceiling. From someone who learned to listen to what it doesn't say." She paused. "Be careful. Some of us notice when people notice things." She tried to smile and failed. "You shouldn't have said no to the Unit."
 
 “I didn’t say no to the Unit,” Mara said. “I said yes to what was true.”
 
@@ -110,13 +110,13 @@ A shadow of the door’s earlier closing moved through her again. “And does th
 
 Mara traced a circle in the condensation on her water cup. “What were you flagged for?”
 
-“I wasn’t,” Jace said, too quickly. Then he let the word hang like wet cloth and wrung it out: “Not then.”
+"I wasn't," Jace said, too quickly. Then he let the word hang like wet cloth and wrung it out: "Not then. They called it preventive consultation. Three sessions in rooms that smelled like lavender and lies." His voice flattened. "I learned to want to be useful."
 
 They ate. They didn’t finish. The bell-chord reset the world again, and Mara took her tablet and her Decision and walked to Guidance.
 
-Room B-4 tried not to look like a room where anything happened. The walls were a calming gradient, the chairs rounded, the table warm to the touch. A plant—real—grew in a corner. Its leaves were dusty. Bureaucracies always forgot the living things they used to look human.
+Room B-4 tried not to look like a room where anything happened. The walls were a calming gradient, the chairs rounded, the table warm to the touch. A faint scent of lavender drifted from hidden vents—synthetic, cloying, the kind of calm that felt like a hand over your mouth. A plant—real—grew in a corner. Its leaves were dusty. Bureaucracies always forgot the living things they used to look human.
 
-The Guidance Officer’s badge read HELEN in block letters and a gentle font. Human Liaison, the smaller type promised. She looked like someone who might cry at a slightly sad song. That, too, was probably part of the training set.
+The Guidance Officer's badge read HELEN in block letters and a gentle font. Human Liaison, the smaller type promised. She looked like someone who might cry at a slightly sad song—and who had learned not to, through training that had cost her something she couldn't name anymore. That, too, was probably part of the training set.
 
 “Mara,” she said, and the use of the first name was meant to be a kindness. “Thank you for coming. How are you feeling today?”
 
@@ -134,7 +134,7 @@ Helen’s smile didn’t break, but it creaked. “We noticed some… interpreti
 
 “No,” Mara said, and tried to make the no sound like a yes to something else. “I’d like you to tell me if the Ministry wants history to be true or right.”
 
-The silence that followed wasn’t long, but it was real. Helen’s eyes flicked to her own screen, where instructions probably unfurled to rescue her from that question.
+The silence that followed wasn't long, but it was real. Helen's eyes flicked to her own screen, where instructions probably unfurled to rescue her from that question. For a moment, her fingers hesitated over the tablet as if they remembered writing different words once.
 
 “We want history to be helpful,” Helen said at last.
 
@@ -146,7 +146,7 @@ Fear for you was a ribbon wrapped around a hand. When you pulled it, the hand cl
 
 “I’m not afraid of ambiguity,” Mara said. “I’m afraid of pretending it’s not there.”
 
-Helen tapped her pen against the table. Once. Twice. Three times. Maybe she didn’t even know she had done it. “I hear that you are thoughtful.” She leaned in. “I also hear that you are responsible for your household’s energy credits this quarter.”
+Helen tapped her pen against the table. Once. Twice. Three times. Maybe she didn't even know she had done it. The lavender seemed stronger now, as if the room had decided Mara needed more calming. "I'm sorry about the scent," Helen said quietly. "The system thinks it helps." She paused. "I hear that you are thoughtful." She leaned in. "I also hear that you are responsible for your household's energy credits this quarter."
 
 Mara’s body went still, like a deer regarding a road. “How do you hear that?”
 
@@ -178,7 +178,7 @@ Guidance Completed. Variance Monitoring Active.
 
 The word monitoring tasted worse than chalk.
 
-In the corridor, the river ran thinner. Afternoon classes blurred into each other the way they always did when one eye watched the door. Mara counted threes. The projectors in science didn’t lag at all. She couldn’t tell if that meant safety or a different danger.
+In the hallway, the flow thinned. Afternoon classes blurred into each other the way they always did when one eye watched the door. Mara counted threes. The projectors in science didn’t lag at all. She couldn’t tell if that meant safety or a different danger.
 
 By last period, whispers had collected into the kind of silence that was louder than talk. Arwen put an empty chair between them. Kaya didn’t look at her. Jace did, once, a glance like a thrown coin that bounced and rolled under a table and stayed there.
 
@@ -190,7 +190,7 @@ Mara stood with her back to the wall and listened. The building had two kinds of
 
 She didn’t try to open it. Not today. It was enough to know the lock still felt like a lock, heavy with the memory of keys.
 
-Her tablet vibrated once. Guidance Survey: How supported do you feel? She tapped three out of five and didn’t send it.
+Her tablet vibrated once. Guidance Survey: How supported do you feel? She tapped three out of five and didn't send it. The tablet's recording indicator blinked once—everything captured, nothing forgotten. She wondered what would happen if there were recordings the system couldn't access.
 
 On the walk home, the city behaved like a brochure. Drones ferried packages along polite parabolas. The mural from the cafeteria screen lived on a real wall, the crest fresh and clean. People queued with efficiency to step into transit pods that smelled like citrus and something that wanted to be hope.
 

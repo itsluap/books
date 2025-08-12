@@ -16,7 +16,7 @@ She pressed the page flat against the counter. The words lifted into her skin li
 
 At dusk, the city smelled like citrus and the rain it hadn’t earned. Transit pods hummed their polite hum. The minister on a public screen smiled with a new phrase: Correction is Care. Someone had written, in pencil small enough to be deniable, under the screen’s frame: Care is correction spelled backward only in your head.
 
-Mara packed small things that had learned to matter: a coil of wire, a bent hairpin, the root-sticker recorder folded into a library card sleeve, a stub of pencil, her cardboard of small true things tucked into her sock. She wrote a note for her mother that said homework in a hand that hoped to be believed.
+Mara packed small things that had learned to matter: a coil of wire, a bent hairpin, the roots recorder folded into a library card sleeve, a stub of pencil, her cardboard of small true things tucked into her sock. She wrote a note for her mother that said homework in a hand that hoped to be believed.
 
 In the seam near the vending alcove, Jace and Lio and two others she knew only by nods waited with faces that had learned to be weather. Lio slid a map from their sleeve: school → laundry service door → maintenance tunnel → North Corridor 8 sub-basement → Media Room B.
 

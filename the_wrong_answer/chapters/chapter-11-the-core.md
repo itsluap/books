@@ -58,7 +58,7 @@ The braided girl at the door hissed, a small weather alert. “Two floors up. Pa
 
 “We need a trigger,” Jace said. “It won’t rebuild because we ask. It will rebuild because it thinks its story is corrupted.”
 
-Mara reached into her pocket and brought out the library card sleeve. The root-sticker recorder slept inside, its tree ink faint as a ghost. She pressed the root and felt it warm. Helen’s voice filled her thumb, then Alex’s, then hers—small, careful, stones in a stream. “It listens thirty minutes,” she said. “Long enough to teach the lock a poem.”
+Mara reached into her pocket and brought out the library card sleeve. The roots recorder slept inside, its tree ink faint as a ghost. She pressed the root and felt it warm. Helen’s voice filled her thumb, then Alex’s, then hers—small, careful, stones in a stream. “It listens thirty minutes,” she said. “Long enough to teach the lock a poem.”
 
 Lio snapped a lead onto the sticker’s edge and fed the other end into the ingest console’s auxiliary input—the one labeled AUDIO for reasons no one remembered. The console did not blink. It didn’t need to. It listened the way old machines listen when you speak to them in the language they learned when they were young and trusting.
 

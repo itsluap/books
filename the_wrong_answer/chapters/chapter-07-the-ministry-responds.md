@@ -14,7 +14,7 @@ Her tablet vibrated: once, then once again at half tempo. The message folded its
 
 Evaluation Scheduled: 10:40, Room C-12. Purpose: Clarify Variance. Duration: Minimal. Human Liaison Present.
 
-Jace never changed his stride when he passed her. He didn’t have to. His shoulder brushed the air near hers in a pattern that meant caution. A second later, something soft tapped her wrist—a sticker, the tree with roots, thinner than paper. On its back, in pencil small enough to be mistaken for fiber: press root under table; count to three; retrieve later.
+Jace never changed his stride when he passed her. He didn’t have to. His shoulder brushed the air near hers in a pattern that meant caution. A second later, something soft tapped her wrist—a roots sticker, thinner than paper, the tree with roots that spread like questions. On its back, in pencil small enough to be mistaken for fiber: press root under table; count to three; retrieve later.
 
 She did not look down. Looking was a kind of confession.
 
@@ -26,7 +26,7 @@ Helen sat at the table with a tablet and a cup of tea that steamed at a temperat
 
 “It was scheduled,” Mara said, and did not sit until Helen gestured. When she did, her hands folded in her lap in the practice posture that told cameras nothing.
 
-The underside of the table had a lip where wood met metal. Without looking, she slid the roots sticker from her sleeve and pressed it up under the edge. The adhesive warmed under her thumb. She counted, silent: one, two, three.
+The underside of the table had a lip where wood met metal. Without looking, she slid the roots sticker—thin as a leaf of microfilm—from her sleeve and pressed it up under the edge. The adhesive warmed under her thumb. She counted, silent: one, two, three.
 
 “We just want to understand you,” Helen said. Her smile was a soft bridge. “There was a small disruption yesterday. You may have heard? These things unsettle learners.”
 
@@ -112,7 +112,7 @@ Mara washed her hands and added to her cardboard:
 
 15) The truth fits inside a sentence if you hold it a certain way.
 
-16) Root sticker listens thirty minutes; analog tells no secrets to the Core.
+16) Roots recorder listens thirty minutes; analog tells no secrets to the Core.
 
 Outside, the city performed normal. Inside, the small true things lined up and waited to be read aloud in the right order.
 

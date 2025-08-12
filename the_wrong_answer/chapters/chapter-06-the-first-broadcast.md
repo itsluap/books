@@ -110,7 +110,7 @@ By the time she slid back down into a quiet stairwell, the chord doubled again a
 
 Mara smoothed her sleeves and joined a stream of learners flowing toward the auditorium for a “re-centering assembly.” The Behavior Analysis Drones tracked posture. The projector lagged on fours. The soft chord tried very hard to tell everyone what to feel.
 
-In the noise of bodies returning to their sanctioned shapes, a hand brushed her wrist and left the ghost of a sticker. A tree with roots that spread like questions.
+In the noise of bodies returning to their sanctioned shapes, a hand brushed her wrist and left the ghost of a roots sticker. A tree with roots that spread like questions.
 
 On her tablet, a notification blinked, polite: Minor Disruption Acknowledged. Gratitude Activity Added.
 
