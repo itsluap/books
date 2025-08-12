@@ -6,4 +6,3 @@ src = "."
 title = "The Wrong Answer"
 
 [output.html]
-site-url = "/.books/"

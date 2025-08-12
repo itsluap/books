@@ -1,0 +1,15 @@
+title: "The Wrong Answer"
+description: "A dystopian sci-fi novel"
+author: "Paul M."
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .github/
+  - the_wrong_answer/book.toml
+  - the_wrong_answer/SUMMARY.md
