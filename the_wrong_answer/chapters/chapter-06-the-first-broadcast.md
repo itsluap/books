@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 6 — The First Broadcast
 
 Mara woke to the drone’s hum and a literature prompt only she could see: Define courage without using Ministry vocabulary. Three sentences.

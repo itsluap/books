@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 7 — The Ministry Responds
 
 By morning, the building had grown eyes.

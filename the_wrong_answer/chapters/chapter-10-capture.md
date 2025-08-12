@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 10 — Capture
 
 Sunday wore the shape of a day pretending nothing would happen.

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 9 — Operation Contradiction
 
 They named it as a joke first, because jokes make scary things sit down. Operation Contradiction fit in Jace’s mouth like a dare and in Lio’s like a plan. In Mara’s, it tasted like paper and dust and the slight copper of risk.

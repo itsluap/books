@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 8 — Code in the Cracks
 
 The Resilience Workshop met in a room designed to be kind. Beanbag chairs. Warm light. Posters about breathing. A diffuser misted the air with a scent named after a mountain range no one here had seen. The Unit facilitating wore a face smaller than a fist and a voice like velvet made to be washed.

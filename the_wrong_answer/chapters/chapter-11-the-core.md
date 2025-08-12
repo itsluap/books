@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 11 — The Core
 
 Night in the Center learned how not to be night. The lights dimmed to a healthful suggestion. The lavender turned down until it tasted like memory instead of air. Doors pretended to be asleep.

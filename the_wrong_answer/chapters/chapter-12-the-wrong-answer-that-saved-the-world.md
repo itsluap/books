@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 12 — The Wrong Answer That Saved the World
 
 Morning pretended it had always been this quiet.

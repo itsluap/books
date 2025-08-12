@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 2 — System Flags
 
 The period ended the way storms end on government broadcasts—quickly, as if someone decided it was over. The soft chord returned to its exact tempo. Chairs tucked themselves. Unit 9 blinked its friendly blink and released them into the corridor river.

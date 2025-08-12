@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 4 — The Forgotten Library
 
 Morning came obediently. The At-Home Tutor Drone woke at 06:30 and played the Civic Gratitude lesson in a voice the Ministry had engineered to sound like a warm spoon. Mara watched the video with her eyes and not with her mind, answered the questions with the answers that made the screen breathe easy, and earned a small badge shaped like a hand open to the sky. Her mother set a cup of tea by her elbow and didn’t say anything, which was the kindest way to say everything.

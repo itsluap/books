@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 5 — The Watchers
 
 By morning the school had remembered how to smile. Screens glowed with the Ministry crest, pages turning themselves at the exact interval, the soft chord moving through the building like breath. The citrus in the vents had been tuned up a degree, the way a host sprays a room before guests arrive.

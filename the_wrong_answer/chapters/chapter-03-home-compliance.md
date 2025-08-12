@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 3 — Home Compliance
 
 The At-Home Tutor Drone greeted her before the door finished closing. It drifted down from its ceiling dock like a cautious bird, wingless and exact, lens irising wider to take her in.

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The Wrong Answer
 
 ## A Novel

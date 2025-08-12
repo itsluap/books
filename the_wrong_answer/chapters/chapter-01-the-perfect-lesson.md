@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chapter 1 — The Perfect Lesson
 
 The bell didn’t ring anymore. A soft chord unfurled through the ceiling speakers, major to minor in a progression so familiar it faded into the bones. A hundred bodies shifted at once, chairs whispering along polished floors, eyes lifting in unison to the wall where Educator Unit 9 blinked awake.
