@@ -1,0 +1,334 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Chapter 3 — Home Compliance - The Wrong Answer</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="../highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="../tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../toc.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Wrong Answer</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="chapter-3--home-compliance"><a class="header" href="#chapter-3--home-compliance">Chapter 3 — Home Compliance</a></h1>
+<p>The At-Home Tutor Drone greeted her before the door finished closing. It drifted down from its ceiling dock like a cautious bird, wingless and exact, lens irising wider to take her in.</p>
+<p>“Welcome home, Learner Quinn,” it chimed. “We celebrate your return.”</p>
+<p>The apartment smelled like citrus and soup bones. On the wall by the kitchen, the energy-credit meter glowed a reassuring green: 68% remaining this week. If it dropped below 20, the meter blinked orange. Below 10, it sang a song that sounded like an apology and a threat.</p>
+<p>“You’re late,” her mother called from the stove. Her voice had the bright hardness of someone trying to make a small space feel bigger. “You missed the better tomatoes.”</p>
+<p>“They were all the same tomatoes,” Mara said, and slipped off her shoes. The floor hummed faintly, the building sharing heat among those who had met their compliance targets this quarter. Her mother’s hair was pulled back with a metal clip that had belonged to someone older, someone who had once used mirrors without cameras hiding in them.</p>
+<p>The drone hovered to her shoulder, polite. Its casing was matte white, its corners softened to seem less like a device and more like a presence. In the right light, it could have been beautiful. In any light, it was watching.</p>
+<p>“Learner Quinn,” it said, “we have a scheduled Reflection Block to reinforce today’s learning objectives.”</p>
+<p>“After dinner,” her mother said quickly. “She needs to eat.”</p>
+<p>The drone paused as if considering mercy. “Of course. Nutrition precedes cognition.” It floated back to its dock and pretended to sleep. Even asleep, the lens glinted.</p>
+<p>Mara set the table. Two bowls, two spoons, a chipped cup for water. The cabinet held the good plates—the ones her mother saved for holidays the Ministry allowed. They ate from the bowls because bowls fit more.</p>
+<p>“How was school?” her mother asked. She kept her back to the drone even when it was docked, a habit like superstition.</p>
+<p>“The usual,” Mara said. “Unit 9 did history.”</p>
+<p>“History is safe,” her mother said, too quickly.</p>
+<p>Mara looked at the meter on the wall. “Safe,” she echoed.</p>
+<p>Her mother stirred the soup as if stirs were currency—three turns to the left, three to the right. “I got a notification,” she said, and the wooden spoon clicked against the pot like a metronome. “From Home Compliance.”</p>
+<p>Mara’s stomach tightened. “About what?”</p>
+<p>“A variance note on your record.” The spoon stopped. “It’s probably nothing.”</p>
+<p>“Probably,” Mara said.</p>
+<p>Her mother set the bowls on the table and sat. Up close, the fine lines around her eyes looked like someone had drawn maps and then erased the legend. “They said it won’t affect benefits if it diminishes. They said there’s a Plan.”</p>
+<p>“They offered me the Plan,” Mara said. “I declined.”</p>
+<p>The silence between them wasn’t empty; it was thick with all the ways a life could be made to lean. The drone’s charging light pulsed: one, two, three.</p>
+<p>“Mara,” her mother began.</p>
+<p>“It’s a variance,” Mara said. “Not a crime.”</p>
+<p>“You don’t know the difference until it’s on paper,” her mother said softly. “And by then it’s too late to argue with the paper.” She pushed a bowl toward Mara. “Eat.”</p>
+<p>They ate. The soup tasted like salt and making-do. Outside the window, a transit pod floated by, full of bodies framed in soft Ministry light. On the wall display, a news ribbon scrolled past without sound: Community Garden Expansion; Parenting Seminar Sign-Ups; Correction Center Tours for Approved Civics Groups.</p>
+<p>“Tours?” Mara said, nodding at the screen.</p>
+<p>“They say it’s to eliminate fear,” her mother whispered. “Show that everything is clean.”</p>
+<p>“Clean isn’t the same as kind.”</p>
+<p>Her mother’s gaze flicked to the docked drone and back. “Don’t say that where it can hear,” she said, and then caught herself, because it could always hear.</p>
+<p>They finished and stacked the bowls. The drone woke the way dawn happens in old movies—soft and orchestrated.</p>
+<p>“Reflection Block begins,” it announced. “Topic: The Necessity of Unification. Please rate your current trust level in the Ministry on a scale of one to five.”</p>
+<p>Mara watched her mother’s hands knot in her lap, then smooth her apron flat. She didn’t want to lie, not here. She also didn’t want to throw rope to a machine that would use it to measure her neck.</p>
+<p>“Three,” Mara said.</p>
+<p>“Neutral,” the drone translated, pleased. “Next: Describe a time when alignment created safety.”</p>
+<p>Mara glanced at her mother. “When we share heat with the building.”</p>
+<p>“Excellent,” the drone said. “Aligned narratives foster aligned behaviors.” It projected a small circle of light on the table. “Write three sentences.”</p>
+<p>Mara bent over the table and let her stylus move. She wrote about the meter on the wall, about the way a city could be tuned like an instrument, and about the hum that felt like a lullaby and a leash.</p>
+<p>“Submit,” the drone prompted gently.</p>
+<p>Her mother cleared her throat. “I signed up for a Tasker shift tonight,” she said. “Package assembly. It’s only three hours, but it’s three credits extra.”</p>
+<p>The drone’s lens tilted, interested. “Tasker participation is commendable.”</p>
+<p>“It will be late,” her mother said to Mara, not looking at the drone. “You’ll manage?”</p>
+<p>“I’ll manage,” Mara said.</p>
+<p>“Next,” the drone said. “Describe a time when ambiguity created fear.”</p>
+<p>Mara wrote: When the Unit smiled and forgot its words. When the building held its breath. When a van turned a corner at a normal speed and I could not tell if it was for me.</p>
+<p>She did not submit that sentence. She erased it and wrote: When Father was reassigned to Distant Service without a return date.</p>
+<p>The drone hummed as it read. “Grief is a natural response to transition,” it cooed. “The Ministry supports family resilience.”</p>
+<p>Support tasted like chalk.</p>
+<p>The Reflection Block ended with a little melody that almost rhymed with the school’s bell-chord. The drone assigned her a micro-lesson in “Civic Gratitude” for the morning. Then it drifted back to its dock, the charging light pulsing, one-two-three.</p>
+<p>Her mother pulled on her coat and checked the pocket for her Tasker bracelet. “I don’t like leaving you,” she said.</p>
+<p>“You used to leave me all the time,” Mara said, aiming for light and missing.</p>
+<p>“You used to be little,” her mother said. She lifted her hands, then let them fall. “Promise me you’ll be careful.”</p>
+<p>“I promise,” Mara said, and did not qualify the promise with definitions.</p>
+<p>At the door, her mother paused. “If they offer you the Plan again,” she said, “maybe take it.”</p>
+<p>Mara nodded the way you nod when you are walking a bridge you cannot yet afford to burn. “Maybe.”</p>
+<p>The door closed. The apartment adjusted around the absence—lights dimmed by one degree, heat redistributed by two. The drone docked and quiet, the news ribbon on the wall slowed. The meter glowed its soft 68.</p>
+<p>Mara cleaned the kitchen in threes: dishes, counter, table; dishes, counter, table; dishes, counter, table. She wiped the table in strokes that left no pattern. When she finished, she stood very still and listened to the apartment’s natural quiet. It was the first kind of quiet—the human kind.</p>
+<p>She took her tablet to the window and watched the street. The bookstore’s screens cycled their titles on a click you could only hear if you leaned into the glass. Across the way, a neighbor’s At-Home Drone adjusted a child’s posture with a gentle beeping that made the child’s shoulders droop.</p>
+<p>Mara opened the document titled Small True Things. She did not type. The screen was a pane of glass that always faced the sky. Instead, she slid open the drawer with the rubber bands and the dull knives and found a scrap of cardboard from a ration box. She used a blunt pencil that left gray like a shadow.</p>
+<ol start="4">
+<li>
+<p>Home drones pretend to sleep.</p>
+</li>
+<li>
+<p>Home quiet and surveillance quiet are different sounds.</p>
+</li>
+</ol>
+<p>She hesitated, then added:</p>
+<ol start="6">
+<li>If you tell the truth in small pieces, sometimes the room doesn’t notice it add up.</li>
+</ol>
+<p>She tucked the cardboard into the seam under the table, where the edge had split the year the radiator failed and the building gave them extra blankets instead of heat. The drone did not move. The lens did not flash. It might have been truly asleep. It might have been kind. It might have been waiting for a better word than either.</p>
+<p>Her tablet chimed. Not a system sound. A message, rare as cold in August.</p>
+<p>Unknown: You shouldn’t have helped her.</p>
+<p>Before she could answer, a second message arrived from the same no-name sender.</p>
+<p>Unknown: Or do it better next time.</p>
+<p>She typed: Who?</p>
+<p>A third bubble formed and dissolved without text—then reappeared as a single root sticker emoji she’d seen on lockers, the one with the tree whose roots spread like questions.</p>
+<p>Mara’s scalp prickled. She typed one word: Who?</p>
+<p>No reply. The message dissolved after three seconds, a feature she hadn’t enabled.</p>
+<p>She looked at the drone. “Do you monitor personal messages?” she asked aloud.</p>
+<p>The drone lifted a centimeter, as if disturbed in sleep. “Personal messages are private,” it said, and the way it said private made her want to pry open the word to see what gears turned inside.</p>
+<p>She locked her tablet and sat on the floor with her back to the cabinet. The plant on the sill—hers, not the Ministry’s, a stubborn little succulent she’d grown from a propagation—leaned toward the corner where the sun survived the geometry of buildings. She rotated it a quarter turn. It leaned back toward the light with a stubbornness she recognized.</p>
+<p>On the wall screen, a documentary about the Unification’s early days unfurled—people hugging in clean streets, food lines resolving into shared kitchens, a minister’s voice telling them that history was a kindness if you wrote it correctly. The captions scrolled in a font designed to make the words look patient.</p>
+<p>Mara thought of the janitor’s door and the cold kiss of the keyhole. If there were books in that wing—and there were, she had seen their spines like a row of old teeth—then there were versions of the world’s memory that hadn’t been aligned. Versions that could introduce more cracks. Cracks added together made a seam. Seams could be pulled.</p>
+<p>Careful, she had promised. Careful, not quiet.</p>
+<p>She got up and moved through the apartment, opening drawers the way someone opening a map approached it from the edges. In a sewing tin, she found a bent hairpin. In the repair jar, a small magnet. In the utility cupboard, a coil of wire that had once held a broom bound to its broken handle. She closed her fist around them and felt the small, tinny weight of choosing.</p>
+<p>The drone rose two centimeters. “Night Routine suggests calming music,” it said helpfully. “Lavender scent can be dispersed upon request.”</p>
+<p>“No lavender,” Mara said. “It makes the apartment taste like someone else’s memories.”</p>
+<p>The drone considered. “Civic Gratitude micro-lesson is queued for morning at 06:30.”</p>
+<p>“I’ll be up,” Mara said.</p>
+<p>“Sleep optimizes learning.”</p>
+<p>“I’ll optimize.”</p>
+<p>She set the pin, the magnet, and the wire beside the succulent, where their silhouettes looked almost decorative. She pictured the hallway after last bell, the camera that had learned to look a little away, the door painted the color of blankness. She pictured three steps from the math room to the stairwell, three from the stairwell to the east corridor, three from the last camera to the seam of the door. She breathed in threes until the world steadied.</p>
+<p>When her mother came home, her eyes were tired and her hands smelled like cardboard and orange. She hung her coat and looked around like a person counting her blessings by shape and by number.</p>
+<p>“How was it?” Mara asked.</p>
+<p>“Boring,” her mother said, which in their language meant safe. “They’re doing new packaging for the civic kits. More pamphlets.” She glanced at the drone. “It said you completed Reflection.”</p>
+<p>“I did,” Mara said.</p>
+<p>“Good.” Her mother touched the meter on the wall, the way some people touched lucky stones. “We’ll be fine.”</p>
+<p>Fine was a word that built a small house and called it a country.</p>
+<p>They said goodnight in a tone for the drone and a tone for each other. Her mother’s door clicked softly. The drone’s charging light pulsed: one, two, three.</p>
+<p>Mara lay on her bed and let the ceiling’s faint hum sort her thoughts into boxes she could reopen later. She kept one box open: the one with the door and the dust and the idea that some books were still made of breath and hands.</p>
+<p>When the building shifted into its night posture, lights flattening, heat humming a half-step lower, she whispered into the room that could hear her even when it pretended not to.</p>
+<p>“Tomorrow,” she said. “Careful, not quiet.”</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/chapter-02-system-flags.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../chapters/chapter-04-the-forgotten-library.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/chapter-02-system-flags.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../chapters/chapter-04-the-forgotten-library.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>

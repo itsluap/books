@@ -1,0 +1,300 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Chapter 10 — Capture - The Wrong Answer</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="../highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="../tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../toc.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Wrong Answer</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="chapter-10--capture"><a class="header" href="#chapter-10--capture">Chapter 10 — Capture</a></h1>
+<p>Sunday wore the shape of a day pretending nothing would happen.</p>
+<p>Mara spent the morning making ordinary noises: pan on stove, chair legs on floor, the murmur of the wall screen explaining that Misinformation Awareness would continue through Friday. The At-Home Tutor Drone complimented her dishwashing cadence. Her mother bartered Tasker shifts on her tablet with the desperation of someone trying to convince numbers to be kind.</p>
+<p>At noon, a paper that did not look like paper warmed in Mara’s palm. It had arrived with the grocery drop—a receipt, then a hand, then a temperature.</p>
+<p>Tonight. North 8 needs the stone. Media Lab access revoked. Route via service tunnel. If blocked, abort.</p>
+<p>She pressed the page flat against the counter. The words lifted into her skin like a slow bruise. Abort lived next to careful. It did not share a wall with quiet.</p>
+<p>At dusk, the city smelled like citrus and the rain it hadn’t earned. Transit pods hummed their polite hum. The minister on a public screen smiled with a new phrase: Correction is Care. Someone had written, in pencil small enough to be deniable, under the screen’s frame: Care is correction spelled backward only in your head.</p>
+<p>Mara packed small things that had learned to matter: a coil of wire, a bent hairpin, the root-sticker recorder folded into a library card sleeve, a stub of pencil, her cardboard of small true things tucked into her sock. She wrote a note for her mother that said homework in a hand that hoped to be believed.</p>
+<p>In the seam near the vending alcove, Jace and Lio and two others she knew only by nods waited with faces that had learned to be weather. Lio slid a map from their sleeve: school → laundry service door → maintenance tunnel → North Corridor 8 sub-basement → Media Room B.</p>
+<p>“Firmware updates rolled out,” Lio whispered. “North 8’s Units are stiffer. Analog still breathes. We plant the stone; we leave.”</p>
+<p>“If blocked,” Jace said, eyes on Mara, “we abort.”</p>
+<p>Mara nodded. Aborting kept you alive and sometimes killed the reason you had tried at all. She swallowed the thought. Sometimes you held two truths in your mouth until the room decided which one you were allowed to say.</p>
+<p>They moved like a rumor through the school’s sleeping body. The laundry door recognized a borrowed badge and believed. The maintenance tunnel smelled like metal instead of citrus, like the inside of a throat that never met air. Pipes ran along the walls, humming the building’s blood song. They counted steps in threes and in breaths.</p>
+<p>At the service junction, a grate lipped up to exterior. Rain kissed their cheeks with government efficiency. They crossed a sliver of city where cameras slept lighter and then slid into North 8 through a door that had once been a door and had learned to be a duct.</p>
+<p>Media Room B waited with a belly full of equipment pretending to be bones. The analog jack slept like an old dog. Lio’s hands woke it with the patience of someone who had made a friend out of a machine. Jace watched the corridor through a gap and counted drone halos without moving his head.</p>
+<p>“Three seconds,” Lio said. “Maybe four. Stone, then gone.”</p>
+<p>Mara put the microphone in her hands and thought of all the sentences that would fit in three seconds and felt greedy for them all. She chose one that had waited the longest.</p>
+<p>“The Council delayed the vote again. Corridor was a canal renamed.”</p>
+<p>The words slid into the jack and then into the building and then into a hundred rooms. In some, students turned their heads as if called by a name they had almost forgotten. In others, Units smiled and chided and reset. The crest paused mid-page and looked at its own paper cut.</p>
+<p>Jace’s hand knifed the air: go.</p>
+<p>They packed movement into quiet. The sticker cooled in Mara’s palm like a thing that had done its work and wanted to sleep. They reached the corridor and saw what Lio saw a heartbeat before: two Behavior Analysis Drones, halos bright as police tape, hovering with the stillness of attention.</p>
+<p>“East stair,” Jace breathed. “Blind seam.”</p>
+<p>They split the way paper separates from paper without tearing—if you have aligned it with tenderness. Lio peeled left, a shadow that admired corners. Jace peeled right, a student with nothing in his hands and all the air in his chest. Mara went forward two steps, then pivoted with the confidence of someone who had realized she had forgotten something important.</p>
+<p>The drones took the pivot as a story and followed. Their halos warmed. “Learner,” one said, “your biometric indicators suggest agitation. Please proceed to the nearest room.”</p>
+<p>Mara pointed toward the Reflection Room sign. “I’m looking,” she said.</p>
+<p>The drones liked direction. They drifted ahead as if leading a parade of one. Mara slipped past the teacher alcove opposite, into a supply closet, through a vent she had measured with her shoulders. Behind her, a light, polite knock became boots that did not know the meaning of polite.</p>
+<p>She crawled into the ceiling belly and counted cracks. She could still hear the building breathe up there, but now the breath had the rhythm of a run.</p>
+<p>At the next grate, voices waited: “—east stair—blind seam—” Jace’s calm like a song. Then: “Split!” The sound of the building changed—scanners combing, radios stitching rooms together, Unit voices apologizing for something they hadn’t admitted yet.</p>
+<p>Mara dropped into a stairwell she didn’t know and discovered the world had learned new configurations. Enforcement stood at the bottom like a lesson: two people in gray with patches that said Evaluation, and between them, a person in white whose badge said Correction. The person in white held their hands as if they were praying.</p>
+<p>“Learner,” the white person said. Their voice had been trained to be a pillow. “We celebrate your safety. Please come with us.”</p>
+<p>There are three kinds of running. Toward, away, and inside. Mara took one step toward Jace’s last sound, one step away from the hands, and then remembered the promise she had made to herself and the watchers and an atlas that hadn’t been opened in years: careful, not quiet.</p>
+<p>She ran inside—into her own stillness, the way you drop into water and let the water think it has you.</p>
+<p>“I’ll come,” she said, and the sentence cost her. “If you let me call my mother.”</p>
+<p>The white person smiled with relief. “Of course.” Relief was leverage; she filed its shape in her pocket for later. They did not let her call. They allowed her to press her mother’s contact and look at the word calling until the screen wrote unreachable.</p>
+<p>They guided her through halls that had learned to be endless. Doors sighed. The crest turned pages in a tempo meant to be medicinal. The corridor to the van smelled like metal pretending to be air.</p>
+<p>Inside the van, the seats had harnesses that pretended to be hugs. The window glass showed the city like a hospital painting—soft, curated, a story about a tree. The white person sat facing her, hands folded, elbows disciplined.</p>
+<p>“We celebrate your willingness,” they said. “Evaluation can be a conversation.”</p>
+<p>“Correction is care,” Mara said, and watched their eyes register the slogan like a correct answer.</p>
+<p>The Correction Center did not look like a prison. It looked like a hospital designed by a theater troop. Light arrived from nowhere and everywhere. Floors did not make noise. Plants were real and dusty. The smell was lavender cut with metal.</p>
+<p>They took her to a room with a window that framed a courtyard where no one ever went. The wall screen played the minister’s face with the sound off, captions smiling in the font that wanted to be a lullaby. A Unit, smaller than classroom models, waited on a table. Its face had learned concern.</p>
+<p>“Mara,” said the Human Liaison whose badge said ALEX. Not Helen. “Thank you for keeping your appointment.”</p>
+<p>“It was scheduled for Monday,” Mara said. “Today is Sunday.”</p>
+<p>“We celebrate your eagerness,” Alex said, not quite apologizing. They sat, and the Unit breathed. “We’re going to do a few small exercises. Just to help smooth the edges.”</p>
+<p>Edges.</p>
+<p>They began with the same paragraph Mara had read to Helen. Alignment, safety, together. She read it. They asked her to summarize. She did. They asked if she felt angry. She said sometimes. They asked about home. She said home was distracting in the way home was supposed to be.</p>
+<p>“We’re going to visit a friend,” Alex said, and the sentence sounded like an invitation to tea.</p>
+<p>The friend lived behind a door labeled SIMULTANEITY. The room beyond was circular and kind the way a mouth is kind until it closes. Screens wrapped the curve, each with a slice of a story: the crest with five pages in one; four in another; the local paper headline again, again; the council chamber with a banner saying Toward Agreement, then United; a maintenance log page; a child’s drawing of a Unit with the wrong face.</p>
+<p>“Sit,” Alex said. “Let the stories hold you. We’ll help you where they intersect.”</p>
+<p>Mara sat. The chair adjusted for her spine like a hand on a back. The Unit projected a soft circle of light onto her knees. “Repeat after me,” it said. “Evolution.”</p>
+<p>“Evolution,” Mara said.</p>
+<p>“Culmination.”</p>
+<p>“Culmination.”</p>
+<p>“We are not afraid of ambiguity.”</p>
+<p>She thought of a sticker with roots and a binder labeled Alignment Narrative. She thought of a van that drove at a normal speed. “We are not afraid of ambiguity,” she said.</p>
+<p>The screens began to move. Not fast. Not melodramatic. They slid images in and out of her eyes in rhythms designed to train something deeper than deciding. The Unit’s voice layered gentle sentences: “We prefer the aligned version,” “Local variance is healthy,” “Contradiction is a sign of growth.” She felt the edges of truth being encouraged to round off like bread heels rubbed between fingers.</p>
+<p>She counted in threes. She let the sentences pass through like weather and not like law. She followed the seams with her breath and not her eyes. The room tried to teach her to hold two truths by calling one of them a cousin of the other. She imagined the canal under the corridor and kept the water in her mouth, not the brick.</p>
+<p>Once, the screens aligned wrong. For less than a second, the five-page crest and the four-page crest and the two mottos sat together in a way that made the sentence you were supposed to say impossible. Alex’s pen stilled. The Unit’s light-bar stuttered. In that half-second, Mara felt a room somewhere else in the building hiccup. The Core tasted its own breath and called it a cough.</p>
+<p>“Good,” Alex said when the circle ended. Sweat had gathered at their hairline, which told Mara something about machines and about people. “You’re very resilient.”</p>
+<p>They brought her water and a soft bar that tasted like almonds and compliance. They asked if she would like to rest. She asked to use the bathroom and counted the steps and the cameras and the angle of the mirror that did not reflect corners.</p>
+<p>On the way back, through a corridor that had learned to be quiet so well it forgot sound could be comforting, she saw a door ajar. The plaque read REINTEGRATION. Inside, chairs in a row. Young faces. Eyes with the roundness that comes after crying has been trained out of you. A Unit droned a lullaby about community. A boy stared at his hands like they were the last sentence he could still read.</p>
+<p>Alex touched her elbow and the door learned to close.</p>
+<p>In the evening, they let her call home. The screen wrote connected and then unresolved and then connected again. Her mother’s face arrived with a delay long enough to teach patience.</p>
+<p>“Mara,” her mother said, breath hitching into a smile she had practiced on better days. “They said—”</p>
+<p>“I’m safe,” Mara said. “I’m thinking.”</p>
+<p>Her mother’s eyes moved the way eyes move when they are counting angels in a room that has none. “Come home,” she whispered.</p>
+<p>“Soon,” Mara lied because a lie is sometimes a sling you throw over a wall for someone else to hold. “I love you.”</p>
+<p>The night smelled like metal cut with lavender. The bed they gave her was warm and forgiving. The Unit hummed a lullaby that wanted to be a river. On the wall, a tree with roots had been abstracted into a shape so smooth it had forgotten it had been a tree.</p>
+<p>Mara stared at the ceiling and whispered to the room that pretended not to hear. “Careful,” she said to herself and to Jace and Lio and anyone else whose name she didn’t know, whose hands were writing on paper that wasn’t paper. “Not quiet.”</p>
+<p>Somewhere far above, a Building reset a metronome. Somewhere far below, a Core argued with a cache it had taught to be obedient. Somewhere in between, a girl counted to three and kept her edges sharp.</p>
+<p>She slept and dreamed of a canal insisting on being called by its name.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/chapter-09-operation-contradiction.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../chapters/chapter-11-the-core.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/chapter-09-operation-contradiction.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../chapters/chapter-11-the-core.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>

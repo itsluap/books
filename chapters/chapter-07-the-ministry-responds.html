@@ -1,0 +1,296 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Chapter 7 — The Ministry Responds - The Wrong Answer</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="../highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="../tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../toc.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Wrong Answer</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <i class="fa fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="chapter-7--the-ministry-responds"><a class="header" href="#chapter-7--the-ministry-responds">Chapter 7 — The Ministry Responds</a></h1>
+<p>By morning, the building had grown eyes.</p>
+<p>Behavior Analysis Drones glided their routes with new intent, halos brightened half a shade, pauses longer at intersections as if the hallways themselves were a study. The citrus in the vents had been turned up until it felt like a taste. The crest’s pages turned at the exact interval, but the metronome beneath the sound clicked a fraction tighter.</p>
+<p>Mara walked the corridor measuring attention. Fours in literature. Threes in history. Science still smooth. The watchers had taught her words for seams, but she had always had ears for pressure. Today, the pressure pushed back.</p>
+<p>Her tablet vibrated: once, then once again at half tempo. The message folded itself into the screen with official gentleness.</p>
+<p>Evaluation Scheduled: 10:40, Room C-12. Purpose: Clarify Variance. Duration: Minimal. Human Liaison Present.</p>
+<p>Jace never changed his stride when he passed her. He didn’t have to. His shoulder brushed the air near hers in a pattern that meant caution. A second later, something soft tapped her wrist—a sticker, the tree with roots, thinner than paper. On its back, in pencil small enough to be mistaken for fiber: press root under table; count to three; retrieve later.</p>
+<p>She did not look down. Looking was a kind of confession.</p>
+<p>At 10:40, Room C-12 tried to make itself a friend. Gradient walls. Chairs that encouraged posture. A plant so glossy it had learned to be convincing. The scent here was not citrus. It was lavender cut with data.</p>
+<p>Helen sat at the table with a tablet and a cup of tea that steamed at a temperature meant to signal unhurriedness. Her badge: Human Liaison. Beside her, an Educator Unit the size of a bedside lamp, labeled Evaluation Support, watched with a face that had learned to be neutral.</p>
+<p>“Mara,” Helen said, and the first-name kindness worked on your nervous system whether you invited it or not. “Thank you for coming.”</p>
+<p>“It was scheduled,” Mara said, and did not sit until Helen gestured. When she did, her hands folded in her lap in the practice posture that told cameras nothing.</p>
+<p>The underside of the table had a lip where wood met metal. Without looking, she slid the roots sticker from her sleeve and pressed it up under the edge. The adhesive warmed under her thumb. She counted, silent: one, two, three.</p>
+<p>“We just want to understand you,” Helen said. Her smile was a soft bridge. “There was a small disruption yesterday. You may have heard? These things unsettle learners.”</p>
+<p>“I heard the chord,” Mara said. “Twice.”</p>
+<p>Helen’s eyes flicked to the tiny Unit. The Unit blinked a slow, recorded blink. “We appreciate your calm.” She angled the tablet so that a graph faced Mara: a line of compliance. A line of variance. A line called sentiment, which had been made up and then given a number. “These are our concerns. You are very engaged. We celebrate engagement. But sometimes engagement becomes… particular.”</p>
+<p>“Curious,” Mara said.</p>
+<p>“Yes,” Helen said, relieved to use the nicer word. “Curiosity is a gift when aligned.” She took a sip of tea. “Do you feel angry?”</p>
+<p>The sticker under the table hummed, or maybe that was her blood. Mara counted her breath in threes until the room’s edges settled. “Sometimes,” she said. “At things that pretend to be certain when they are not.”</p>
+<p>Helen’s pen made a neat mark. “Do you feel alone?”</p>
+<p>“Everyone is alone when they are thinking,” Mara said. “It’s how you know it’s thinking.”</p>
+<p>The Evaluation Support Unit brightened its light-bar as if filing that somewhere useful. “Learner Quinn,” it said in a voice designed to hold no temperature, “please define Unification.”</p>
+<p>Mara’s mouth shaped the Ministry’s sentence and then did not speak it. “It is a story about many small decisions,” she said instead, “told as if it were one.”</p>
+<p>Helen’s smile didn’t move, but a line of muscle at her jaw remembered it could be a fist. “There are rumors,” she said gently. “Underground networks. Misinformation. Have you encountered anyone asking you to break rules?”</p>
+<p>“No,” Mara said. The truth fit into the sentence if you held it a certain way. “People have asked me to tell the truth more carefully.”</p>
+<p>“Carefully,” Helen repeated, tasting it. “Would you like support? A Plan?”</p>
+<p>“I’d like sleep,” Mara said. “Plans don’t usually make sleep.”</p>
+<p>Helen’s eyes warmed by one degree, which could be kindness or a recalibration. “I’m going to ask you to read a paragraph aloud.” She slid the tablet across the table. The paragraph was about alignment and safety. It used the words soothing and together and fear, and their neighbors.</p>
+<p>Mara read it in a tone that would not confuse a machine learning to be human. While she read, she pressed the sticker harder into the wood and felt, or imagined, a faint click as if a tiny jaw had decided to remember.</p>
+<p>“Thank you,” Helen said. “Now, please summarize in your own words.”</p>
+<p>“The paragraph says that if we all agree, we won’t be afraid,” Mara said. “I think that if we all pretend to agree, we should be.”</p>
+<p>Helen watched her as if the right expression might change the words retroactively. “Do you want to be helpful, Mara?”</p>
+<p>“Yes,” Mara said. She let the yes be true. “I want to be helpful to the truth.”</p>
+<p>The Unit’s light-bar ticked up half a shade. Helen looked at its display and then back to Mara. “We will schedule a Resilience Workshop,” she said. “Not mandatory. Encouraged. Your attendance will indicate willingness.”</p>
+<p>“Encouraged,” Mara echoed, and allowed the word to sit between them like a third bowl on a table set for two.</p>
+<p>Helen stood. The meeting was over in exactly the length of time promised. She reached across the table, palm open. Mara shook her hand because rituals keep rooms from breaking.</p>
+<p>Under the lip, the sticker had cooled. She palmed it as she stood, as if tucking a hair behind her ear. It weighed less than a lie.</p>
+<p>In the hallway, the school had recalibrated its smile. Drones drifted. The crest turned pages. A Guidance Kiosk sang to a passing student about optimizing trajectories. Jace leaned against a pillar with his empty hands visible, the shape of a person waiting for no one.</p>
+<p>“Well?” he asked, his mouth barely moving.</p>
+<p>“It was a paragraph,” Mara said. “I summarized.”</p>
+<p>He tipped his head toward the stairwell. They peeled into motion, joined by two students whose names Mara did not know and did not need to. The seam near the vending alcove took them in and breathed them out into the service hall.</p>
+<p>In the Media Lab, Lio had already dimmed the room to its own weather. They had the analog jack open like a mouth ready for a story. “Did it listen?” they asked.</p>
+<p>Mara set the sticker on the table. Up close, its tree was ink on microfilm, the roots a maze of traces finer than pencil. Lio pressed the root with a thumbnail. The sticker exhaled a breath she had not known it was holding and warmed.</p>
+<p>“Thirty minutes,” Lio said. “Enough for the middle of a truth.” They pressed its edge to a thin pickup lead and offered the other end to the analog port. The console made no sound that the Core would find worth reporting.</p>
+<p>Then Helen’s voice filled the room like a person who had been invited. Calm. Practiced. The Evaluation Support Unit’s gentle prompts. Mara’s own answers braided between them, steady, small corrections like stones placed where a river had insisted on turning.</p>
+<p>They listened in a silence that meant something was being built.</p>
+<p>“We can use this,” Jace said, when the sticker cooled and the recording ended. “Not raw. We’ll seed it. Echo the questions, not the answers. Make the Core weigh doubt against its own language.”</p>
+<p>“They’ll escalate,” Lio said. “Today was lavender. Next is citrus. After that is metal.”</p>
+<p>“I know,” Mara said. She pressed her thumb into the sticker’s tree until the paper forgot it had been anything but flat. “Careful,” she said, mostly to herself.</p>
+<p>“Not quiet,” Jace finished.</p>
+<p>The afternoon marched. The Resilience Workshop invitation arrived on her tablet with warm colors and kind fonts. Attendance encouraged. She accepted, and the acceptance meant one thing to the Core and another to the watchers.</p>
+<p>At home, the At-Home Tutor Drone praised her for her willingness to grow. Her mother stirred stew the direction of hope. The energy meter glowed a little greener than yesterday. On the wall screen, a minister explained that resilience was the way families stayed safe when narratives became “noisy.”</p>
+<p>Mara washed her hands and added to her cardboard:</p>
+<ol start="14">
+<li>
+<p>Evaluation rooms smell like lavender when they are measuring you.</p>
+</li>
+<li>
+<p>The truth fits inside a sentence if you hold it a certain way.</p>
+</li>
+<li>
+<p>Root sticker listens thirty minutes; analog tells no secrets to the Core.</p>
+</li>
+</ol>
+<p>Outside, the city performed normal. Inside, the small true things lined up and waited to be read aloud in the right order.</p>
+<p>The Ministry had responded. So had she.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../chapters/chapter-06-the-first-broadcast.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../chapters/chapter-08-code-in-the-cracks.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../chapters/chapter-06-the-first-broadcast.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../chapters/chapter-08-code-in-the-cracks.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>
