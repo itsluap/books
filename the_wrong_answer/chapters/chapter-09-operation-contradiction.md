@@ -133,5 +133,8 @@ She counted to three, then to six, then to nine. On twelve, she turned off the l
 In the dark, her tablet pulsed once, then twice at half tempo. Evaluation: Follow-Up. Monday. Bring your work.
 
 The sentence waited in the room like a door remembering it could open.
-
-
+<div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <a href="chapters/chapter-08-code-in-the-cracks.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Chapter 8 — Code in the Cracks</a>
+  <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
+  <a href="chapters/chapter-10-capture.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 10 — Capture →</a>
+</div>

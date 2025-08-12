@@ -143,5 +143,8 @@ She lay back and let the apartment’s two kinds of quiet layer over each other.
 In the morning, the literature prompt on her tablet read, for her and no one else: Define courage without using Ministry vocabulary. Three sentences.
 
 She smiled into the room that pretended not to watch and began to write.
-
-
+<div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <a href="chapters/chapter-04-the-forgotten-library.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Chapter 4 — The Forgotten Library</a>
+  <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
+  <a href="chapters/chapter-06-the-first-broadcast.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 6 — The First Broadcast →</a>
+</div>

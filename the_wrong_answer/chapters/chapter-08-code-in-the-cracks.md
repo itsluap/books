@@ -117,5 +117,8 @@ Mara traced the words once with her finger and did not press hard enough to leav
 “Carefully,” Lio said.
 
 “Not quiet,” Mara finished, and then assigned the next sentence.
-
-
+<div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <a href="chapters/chapter-07-the-ministry-responds.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Chapter 7 — The Ministry Responds</a>
+  <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
+  <a href="chapters/chapter-09-operation-contradiction.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 9 — Operation Contradiction →</a>
+</div>

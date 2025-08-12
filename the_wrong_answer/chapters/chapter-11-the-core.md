@@ -171,5 +171,8 @@ Mara looked at Jace and Lio and the girl at the door. She felt the building’s 
 “Tomorrow,” she said, and smiled into the dust. “Careful.”
 
 “Not quiet,” they all said, and the room heard them.
-
-
+<div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <a href="chapters/chapter-10-capture.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Chapter 10 — Capture</a>
+  <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
+  <a href="chapters/chapter-12-the-wrong-answer-that-saved-the-world.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 12 — The Wrong Answer That Saved the World →</a>
+</div>

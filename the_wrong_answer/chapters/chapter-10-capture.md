@@ -141,5 +141,8 @@ Mara stared at the ceiling and whispered to the room that pretended not to hear.
 Somewhere far above, a Building reset a metronome. Somewhere far below, a Core argued with a cache it had taught to be obedient. Somewhere in between, a girl counted to three and kept her edges sharp.
 
 She slept and dreamed of a canal insisting on being called by its name.
-
-
+<div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <a href="chapters/chapter-09-operation-contradiction.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Chapter 9 — Operation Contradiction</a>
+  <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
+  <a href="chapters/chapter-11-the-core.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 11 — The Core →</a>
+</div>

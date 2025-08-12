@@ -193,5 +193,8 @@ Mara lay on her bed and let the ceiling’s faint hum sort her thoughts into box
 When the building shifted into its night posture, lights flattening, heat humming a half-step lower, she whispered into the room that could hear her even when it pretended not to.
 
 “Tomorrow,” she said. “Careful, not quiet.”
-
-
+<div style="border-top: 1px solid #e1e4e8; margin-top: 40px; padding-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <a href="chapters/chapter-02-system-flags.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">← Chapter 2 — System Flags</a>
+  <a href="../" style="background-color: #f6f8fa; border: 1px solid #d1d9e0; padding: 8px 16px; text-decoration: none; border-radius: 6px;">📚 Table of Contents</a>
+  <a href="chapters/chapter-04-the-forgotten-library.md" style="background-color: #f1f8ff; border: 1px solid #c8e1ff; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Chapter 4 — The Forgotten Library →</a>
+</div>
