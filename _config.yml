@@ -1,12 +1,13 @@
-title: "The Wrong Answer"
-description: "A dystopian sci-fi novel"
+title: "Paul's Books"
+description: "A collection of short novels and stories"
 author: "Paul M."
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 
 markdown: kramdown
 highlighter: rouge
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 exclude:

@@ -1,10 +1,14 @@
+---
+layout: default
+---
+
 # The Wrong Answer
 
 *A dystopian sci-fi novel by Paul M.*
 
 ---
 
-## Table of Contents
+## 📖 Table of Contents
 
 - [Front Matter](front-matter.md)
 - [Chapter 1 — The Perfect Lesson](chapters/chapter-01-the-perfect-lesson.md)
